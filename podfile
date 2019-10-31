@@ -1,0 +1,6 @@
+platform :ios, '8.0' 
+target "WechatMoments" do 
+pod 'AFNetworking', '~> 3.2.1'
+pod 'MLLabel', '~> 1.10.5'
+pod 'MJRefresh', '~> 3.1.15.7'
+end 
